@@ -6,4 +6,5 @@
 - T: 78
 - GitHub Username: sosthene37
 
-Assignment files: `dart_basics.dart`, `momo_sim.dart`, `answers.pdf`, and `STATUS.md`.
+Assignment files: `dart_basics.dart`, `momo_sim.dart`, `answers.docx`, `answers.pdf`, and `STATUS.md`.
+
