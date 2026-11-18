@@ -26,4 +26,5 @@
 - None.
 
 # Stuck On
-- Repository visibility: the repository is private, but the assignment requires it to be public. The owner must change this setting in GitHub.
+- None.
+
